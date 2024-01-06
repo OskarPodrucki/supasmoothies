@@ -1,4 +1,4 @@
-# Starter React Project for the Supabase Course
+# supasmoothies
 
 **How to run the starter project:**
 
